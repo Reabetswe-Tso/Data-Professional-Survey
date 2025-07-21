@@ -29,6 +29,8 @@ This project features a dynamic **Power BI dashboard** that visualizes trends am
 - **Bar Charts** comparing job roles and language preferences
 - **Gauge Visuals** showing satisfaction metrics
 - **Pie Charts** reflecting gender-based data comparisons
+  <img width="1032" height="669" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/8effcbf3-9b22-41ff-b187-f1b5133e5577" />
+
 
 ---
 
