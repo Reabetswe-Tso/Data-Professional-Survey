@@ -13,17 +13,17 @@ This project features a dynamic **Power BI dashboard** that visualizes trends am
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-- ** Top Countries:** United States, India, and Canada dominate participant representation.
-- ** Roles & Salaries:** Highest reported salaries found in Data Architects and Scientists.
-- ** Programming Preference:** Python reigns supreme among respondents.
-- ** Satisfaction Scores:** Mixed ratings on salary and work-life balance.
-- ** Gender-Based Averages:** Compared average salaries across gender identities.
+- Top Countries: United States, India, and Canada dominate participant representation.
+- Roles & Salaries: Highest reported salaries found in Data Architects and Scientists.
+- Programming Preference: Python reigns supreme among respondents.
+- Satisfaction Scores: Mixed ratings on salary and work-life balance.
+- Gender-Based Averages: Compared average salaries across gender identities.
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - **Treemaps** for country distributions
 - **Bar Charts** comparing job roles and language preferences
@@ -47,6 +47,4 @@ This project features a dynamic **Power BI dashboard** that visualizes trends am
 ---
 
 ## Credits
-
 Created by **Reabetswe Tsotetsi**  
-Driven by a passion for storytelling through design and interactivity.
